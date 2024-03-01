@@ -31,3 +31,4 @@ C:\Users\USUARIO\Desktop\Jona\CursoNET\obj\Debug\net8.0\refint\CursoNET.dll
 C:\Users\USUARIO\Desktop\Jona\CursoNET\obj\Debug\net8.0\CursoNET.pdb
 C:\Users\USUARIO\Desktop\Jona\CursoNET\obj\Debug\net8.0\CursoNET.genruntimeconfig.cache
 C:\Users\USUARIO\Desktop\Jona\CursoNET\obj\Debug\net8.0\ref\CursoNET.dll
+C:\Users\USUARIO\Desktop\Jona\CursoNET\obj\Debug\net8.0\CursoNET.sourcelink.json
